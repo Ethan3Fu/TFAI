@@ -1,5 +1,3 @@
-hellow
-=======
 # TFAI
 
 Implementation of the paper "**A novel self-supervised representation learning framework based on time-frequency alignment and interaction for mechanical fault diagnosis**" by Daxing Fu, Jie Liu, Hao Zhong, Xin Zhang, Fan Zhang.
