@@ -57,4 +57,3 @@ python main.py --mode --test --percent 0.25
 ```
 python main.py --mode --test --percent 0.5
 ```
->>>>>>> 670af4f (upload)
