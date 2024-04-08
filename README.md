@@ -23,8 +23,8 @@ TFAI/
 |
 └─ dataset/
     |  
-    ├─ dataset1  
-    ├─ dataset1  
+    ├─ dataset1
+    ├─ dataset2
     └─ dataloader.py
 ```
 
