@@ -12,7 +12,11 @@ please install the following packages
 
 ## Download datasets
 
+[Dataset 1: Axial Flow Pump dataset](https://pan.baidu.com/s/1a2ChYbYEWyciSQy8kXFDHw?pwd=8w2m)
+
 [Dataset 2: XJTUGearbox dataset](https://pan.baidu.com/s/1Pfbbkq0zC3h5pZX5ae2SzA?pwd=gp04)
+
+(For confidentiality reasons, we can only provide test set of Dataset 1. You can use it to run the demo or use Dataset 2.)
 
 please download the datasets and place them in the dataset folder:
 
